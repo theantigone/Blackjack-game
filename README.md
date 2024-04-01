@@ -1,2 +1,2 @@
-# Blackjack-game
+# BlackjackGame
 Blackjack game in Java I worked on
