@@ -23,7 +23,7 @@ sudo apt install default-jre
 to install the Java package in your system. [More information here](https://opensource.com/article/19/11/install-java-linux)
 
 ## 2.2 Run Blackjack
-After installing Java, inside the `Blackjack-game` directory, run:
+After installing Java, navigate to the `src` folder inside the `Blackjack-game` directory, run:
 ```shell
 java Main.java
 ```
