@@ -6,7 +6,7 @@
     * [2.2 Run Blackjack](#22-run-blackjack)
 
 # 1 Introduction
-Blackjack game in Java I worked on. Implemented an interactive console-based version of the popular card game Blackjack in Java.
+This project is a simple **console-based** implementation of [_Blackjack_](https://en.wikipedia.org/wiki/Blackjack) in [**Java**](https://www.java.com/en/)
 
 # 2 Getting Started
 Clone this repository to your workspace using your terminal:
