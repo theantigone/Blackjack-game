@@ -31,3 +31,6 @@ After installing Java, navigate to the `src` folder inside the `Blackjack-game` 
 ```shell
 java Main.java
 ```
+
+> [!NOTE]
+> The dealer in this game was inspired by [Riot Games](https://www.riotgames.com)!
