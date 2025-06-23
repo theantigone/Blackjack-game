@@ -5,6 +5,10 @@
     * [2.1 Install Packages](#21-install-packages)
     * [2.2 Run Blackjack](#22-run-blackjack)
 
+![blackjack demo](/images/blackjack.png)[^1]
+
+[^1]: A demo of my [**Blackjack**](https://en.wikipedia.org/wiki/Blackjack) in the command line.
+
 # 1 Introduction
 This project is a simple **console-based** implementation of [_Blackjack_](https://en.wikipedia.org/wiki/Blackjack) in [**Java**](https://www.java.com/en/)
 
